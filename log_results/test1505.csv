@@ -1,0 +1,1 @@
+rlwrap /home/wcnes/contiki-ng-wcnes/tools/serial-io/serialdump -b115200 /dev/ttyACM0
